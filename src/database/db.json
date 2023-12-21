@@ -1,0 +1,822 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "moviename": "Avatar",
+      "director": "James Cameron",
+      "hero": "Sam Worthington",
+      "heroine": "Zoe Saldana",
+      "productionHouse": "20th Century Fox",
+      "budget": "$237 million",
+      "collection": "$2.932 billion",
+      "rating": 7.8,
+      "description": "A paraplegic marine dispatched to the moon Pandora becomes torn between following orders and protecting the world he feels is his home.",
+      "release_date": "2009",
+      "duration": "2h 42min",
+      "genre": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+      ],
+      "languages": [
+        "English"
+      ],
+      "trailer_link": "https://www.youtube.com/embed/5PSNL1qE6VY?si=gvPIADJ6A5uctYzf",
+      "poster": "https://img.wonderhowto.com/img/47/88/63406323531721/0/avatar.w1456.jpg",
+      "banner": "https://c4.wallpaperflare.com/wallpaper/810/33/235/movies-avatar-1680x1050-entertainment-movies-hd-art-wallpaper-preview.jpg"
+    },
+    {
+      "id": 2,
+      "moviename": "Baahubali: The Conclusion",
+      "hero": "Prabhas",
+      "heroine": "Anushka Shetty",
+      "director": "S. S. Rajamouli",
+      "productionHouse": "Arka Media Works",
+      "budget": "250 crore INR",
+      "collection": "1810 crore INR",
+      "rating": 8.2,
+      "description": "Sequel to Baahubali: The Beginning, it concludes the epic saga of Shiva's journey.",
+      "release_date": "2017",
+      "duration": "2h 47min",
+      "genre": [
+        "Action",
+        "Drama"
+      ],
+      "languages": [
+        "Telugu",
+        "Tamil",
+        "Hindi",
+        "Malayalam"
+      ],
+      "trailer_link": "https://www.youtube.com/embed/qD-6d8Wo3do?si=ZZds_7LsiZ6sjCns",
+      "poster": "https://static-koimoi.akamaized.net/wp-content/new-galleries/2017/01/bahubali-the-conclusion-presenting-amarendra-baahubali-devasena-1.jpg",
+      "banner": "https://www.bollywoodhungama.com/wp-content/uploads/2016/03/Bahubali-2-The-Conclusion-4.jpg"
+    },
+    {
+      "id": 3,
+      "moviename": "KGF: Chapter 2",
+      "hero": "Yash",
+      "heroine": "Srinidhi Shetty",
+      "director": "Prashanth Neel",
+      "productionHouse": "Hombale Films",
+      "budget": "150 crore INR",
+      "collection": "1148 crore INR",
+      "rating": 8.3,
+      "description": "Sequel to KGF: Chapter 1, it continues the story of Rocky in the Kolar Gold Fields.",
+      "release_date": "2021",
+      "duration": "2h 48min",
+      "genre": [
+        "Action",
+        "Drama"
+      ],
+      "languages": [
+        "Kannada",
+        "Telugu",
+        "Tamil",
+        "Hindi",
+        "Malayalam"
+      ],
+      "trailer_link": "https://www.youtube.com/embed/JKa05nyUmuQ?si=6D6SpS5V9nzS8VFg",
+      "poster": "https://i0.wp.com/www.socialnews.xyz/wp-content/uploads/2022/03/05/fnej2krveaana1d3174161.jpg?quality=80&zoom=1&ssl=1",
+      "banner": "https://e1.pxfuel.com/desktop-wallpaper/436/844/desktop-wallpaper-kgf-chapter-2-kgf-2.jpg "
+    },
+    {
+      "id": 4,
+      "moviename": "The Dark Knight",
+      "director": "Christopher Nolan",
+      "hero": "Christian Bale",
+      "heroine": "Heath Ledger",
+      "productionHouse": "Syncopy",
+      "budget": "$185 million",
+      "collection": "$1.005 billion",
+      "rating": 9,
+      "description": "Batman faces the Joker, a criminal mastermind with a twisted sense of humor, in a battle of chaos vs. order.",
+      "release_date": "2008",
+      "duration": "2h 32min",
+      "genre": [
+        "Action",
+        "Crime",
+        "Drama"
+      ],
+      "languages": [
+        "English"
+      ],
+      "trailer_link": "https://www.youtube.com/embed/EXeTwQWrcwY?si=458R_-yR6G0Q2xJi",
+      "poster": "https://rukminim2.flixcart.com/image/850/1000/xif0q/poster/p/z/i/small-spos12819-poster-dark-knight-batman-bold-sl-12819-wall-original-imaggefgduyuudss.jpeg?q=20",
+      "banner": "https://wildsoundwritingfestivalreview.files.wordpress.com/2016/01/the_dark_knight_banner.jpg?w=600"
+    },
+    {
+      "id": 5,
+      "moviename": "Inception",
+      "director": "Christopher Nolan",
+      "hero": "Leonardo DiCaprio",
+      "heroine": "Marion Cotillard",
+      "productionHouse": "Syncopy",
+      "budget": "$160 million",
+      "collection": "$829.9 million",
+      "rating": 8.8,
+      "description": "Dom Cobb, a skilled thief, is trained in the rare art of entering people's dreams and stealing their deepest secrets.",
+      "release_date": "2010",
+      "duration": "2h 28min",
+      "genre": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "languages": [
+        "English"
+      ],
+      "trailer_link": "https://www.youtube.com/embed/YoHD9XEInc0?si=wU7JNnPmpxE6Gxib",
+      "poster": "https://cdn11.bigcommerce.com/s-yzgoj/images/stencil/1280x1280/products/2919351/5970948/MOVAB06490__27456.1679612261.jpg?c=2",
+      "banner": "https://www.joblo.com/wp-content/uploads/2010/05/inception-poster-quad-1.jpg"
+    },
+    {
+      "id": 7,
+      "moviename": "Andhadhun",
+      "hero": "Ayushmann Khurrana",
+      "heroine": "Tabu",
+      "director": "Sriram Raghavan",
+      "productionHouse": "Matchbox Pictures",
+      "budget": "32 crore INR",
+      "collection": "456 crore INR",
+      "rating": 8.2,
+      "description": "Dark comedy thriller about a blind pianist who unwittingly becomes embroiled in a murder.",
+      "release_date": "2018",
+      "duration": "2h 19min",
+      "genre": [
+        "Crime",
+        "Thriller"
+      ],
+      "languages": [
+        "Hindi",
+        "Telugu",
+        "Tamil",
+        "Malayalam"
+      ],
+      "trailer_link": "https://www.youtube.com/embed/2iVYI99VGaw?si=88INhcsWh7QVNzEZ",
+      "poster": "https://qph.cf2.quoracdn.net/main-qimg-8a34f02b46505f4de263534c67fcaffb-lq",
+      "banner": "https://www.adgully.com/img/800/201904/andhadhun-poster.jpg"
+    },
+    {
+      "id": 8,
+      "moviename": "Rangasthalam",
+      "hero": "Ram Charan",
+      "heroine": "Samantha Akkineni",
+      "director": "Sukumar",
+      "productionHouse": "Mythri Movie Makers",
+      "budget": "60 crore INR",
+      "collection": "215 crore INR",
+      "rating": 8.2,
+      "description": "Period action drama set in a rural village backdrop.",
+      "release_date": "2018",
+      "duration": "2h 53min",
+      "genre": [
+        "Action",
+        "Drama"
+      ],
+      "languages": [
+        "Telugu",
+        "Malayalam",
+        "Tamil",
+        "Hindi"
+      ],
+      "trailer_link": "https://www.youtube.com/embed/sueMmTm-M4Y?si=ujb0_8-kr9NNodW5",
+      "poster": "https://www.cinejosh.com/gallereys/movies/normal/rangasthalam_new_poster_and_photo_2403180926/rangasthalam_new_poster_and_photo_2403180926_02.jpg",
+      "banner": "https://e1.pxfuel.com/desktop-wallpaper/42/64/desktop-wallpaper-ram-charan-rangasthalam-1985-movie-first-look-ultra-posters-rangasthalam-1985-thumbnail.jpg"
+    },
+    {
+      "id": 9,
+      "moviename": "The Godfather",
+      "director": "Francis Ford Coppola",
+      "hero": "Marlon Brando",
+      "heroine": "Al Pacino",
+      "productionHouse": "Paramount Pictures",
+      "budget": "$6 million",
+      "collection": "$250 million",
+      "rating": 9.2,
+      "description": "The patriarch of an organized crime dynasty transfers control to his reluctant son.",
+      "release_date": "1972",
+      "duration": "2h 55min",
+      "genre": [
+        "Crime",
+        "Drama"
+      ],
+      "languages": [
+        "English"
+      ],
+      "trailer_link": "https://www.youtube.com/embed/UaVTIH8mujA?si=lAHLZO6MItpHloMK",
+      "poster": "https://upload.wikimedia.org/wikipedia/en/1/1c/Godfather_ver1.jpg",
+      "banner": "https://i.imgur.com/jWd7XaO.jpg"
+    },
+    {
+      "id": 10,
+      "moviename": "Pulp Fiction",
+      "director": "Quentin Tarantino",
+      "hero": "John Travolta",
+      "heroine": "Uma Thurman",
+      "productionHouse": "A Band Apart",
+      "budget": "$8 million",
+      "collection": "$214 million",
+      "rating": 8.9,
+      "description": "The lives of two mob hitmen, a boxer, a gangster's wife, and a pair of diner bandits intertwine in four tales of violence and redemption.",
+      "release_date": "1994",
+      "duration": "2h 34min",
+      "genre": [
+        "Crime",
+        "Drama"
+      ],
+      "languages": [
+        "English"
+      ],
+      "trailer_link": "https://www.youtube.com/embed/s7EdQ4FqbhY?si=Bdt5St_BcuBJWka4",
+      "poster": "https://i.pinimg.com/736x/56/2f/a6/562fa64ec1edb0c578587e461e0442e6.jpg",
+      "banner": "https://i.pinimg.com/736x/56/2f/a6/562fa64ec1edb0c578587e461e0442e6.jpg"
+    },
+    {
+      "id": 11,
+      "moviename": "Kabali",
+      "hero": "Rajinikanth",
+      "heroine": "Radhika Apte",
+      "director": "Pa. Ranjith",
+      "productionHouse": "V Creations",
+      "budget": "100 crore INR",
+      "collection": "286 crore INR",
+      "rating": 6.1,
+      "description": "Gangster drama film featuring the journey of a powerful don.",
+      "release_date": "2016",
+      "duration": "2h 32min",
+      "genre": [
+        "Action",
+        "Crime",
+        "Drama"
+      ],
+      "languages": [
+        "Tamil",
+        "Telugu",
+        "Hindi",
+        "Malayalam"
+      ],
+      "trailer_link": "https://www.youtube.com/embed/9mdJV5-eias?si=fOza676sIeuIWR7Y",
+      "poster": "https://cdn.myportfolio.com/9fd5290e2109e08ffd62f3f8f39a7073/19b372814f00846b1ca46dc2_rw_1200.jpg?h=0c018f6e791419d64d3c97d118b1e627",
+      "banner": "https://mir-s3-cdn-cf.behance.net/project_modules/max_3840/ec5f8432821431.578f5690bf4cc.jpg"
+    },
+    {
+      "id": 12,
+      "moviename": "Vikram Vedha",
+      "hero": "R. Madhavan",
+      "heroine": "Shraddha Srinath",
+      "director": "Pushkar–Gayathri",
+      "productionHouse": "Y NOT Studios",
+      "budget": "15 crore INR",
+      "collection": "120 crore INR",
+      "rating": 8.2,
+      "description": "Crime thriller that revolves around the game of cat and mouse.",
+      "release_date": "2017",
+      "duration": "2h 27min",
+      "genre": [
+        "Action",
+        "Crime",
+        "Drama"
+      ],
+      "languages": [
+        "Tamil",
+        "Telugu",
+        "Hindi"
+      ],
+      "trailer_link": "https://www.youtube.com/embed/1sVr-uWZPjE?si=xGwaIcOVi4VRZv-B",
+      "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxbFt8v6qbFE8lF_1rwgKbEWhtERtJ2G07ztvE7PnqQVXwncHgR3GnkNgS-9PrkF8wuGc&usqp=CAU",
+      "banner": "https://igimages.gumlet.io/tamil/gallery/movies/vikramveda/main2.jpg?w=400&dpr=2.6"
+    },
+    {
+      "id": 13,
+      "moviename": "Forrest Gump",
+      "director": "Robert Zemeckis",
+      "hero": "Tom Hanks",
+      "heroine": "Robin Wright",
+      "productionHouse": "Paramount Pictures",
+      "budget": "$55 million",
+      "collection": "$678.2 million",
+      "rating": 8.8,
+      "description": "A man with a low IQ witnesses and unwittingly influences several defining historical events in the 20th century.",
+      "release_date": "1994",
+      "duration": "2h 22min",
+      "genre": [
+        "Drama",
+        "Romance"
+      ],
+      "languages": [
+        "English"
+      ],
+      "trailer_link": "https://www.youtube.com/embed/bLvqoHBptjg?si=HpjquWbD7pHkYYCa",
+      "poster": "https://upload.wikimedia.org/wikipedia/en/6/67/Forrest_Gump_poster.jpg",
+      "banner": "https://i.imgur.com/8ulvVP0.jpg"
+    },
+    {
+      "id": 14,
+      "moviename": "Titanic",
+      "director": "James Cameron",
+      "hero": "Leonardo DiCaprio",
+      "heroine": "Kate Winslet",
+      "productionHouse": "20th Century Fox",
+      "budget": "$200 million",
+      "collection": "$2.195 billion",
+      "rating": 7.8,
+      "description": "A love story blossoms on the ill-fated maiden voyage of the R.M.S. Titanic.",
+      "release_date": "1997",
+      "duration": "3h 14min",
+      "genre": [
+        "Drama",
+        "Romance"
+      ],
+      "languages": [
+        "English"
+      ],
+      "trailer_link": "https://www.youtube.com/embed/kVrqfYjkTdQ?si=TnWaZNTuDA2wKTgB",
+      "poster": "https://c8.alamy.com/comp/B3N6B7/titanic-poster-for-1997-tcflightstorm-film-with-kate-winslet-and-leonardo-B3N6B7.jpg",
+      "banner": "https://c8.alamy.com/comp/B3N6B7/titanic-poster-for-1997-tcflightstorm-film-with-kate-winslet-and-leonardo-B3N6B7.jpg"
+    },
+    {
+      "id": 16,
+      "moviename": "Jurassic Park",
+      "director": "Steven Spielberg",
+      "hero": "Sam Neill",
+      "heroine": "Laura Dern",
+      "productionHouse": "Universal Pictures",
+      "budget": "$63 million",
+      "collection": "$1.033 billion",
+      "rating": 8.2,
+      "description": "A theme park featuring genetically-engineered dinosaurs turns into a nightmare when the creatures escape and wreak havoc.",
+      "release_date": "1993",
+      "duration": "2h 7min",
+      "genre": [
+        "Adventure",
+        "Sci-Fi",
+        "Thriller"
+      ],
+      "languages": [
+        "English"
+      ],
+      "trailer_link": "https://www.youtube.com/embed/lc0UehYemQA?si=E1asZMPFDfw7eR7j",
+      "poster": "https://upload.wikimedia.org/wikipedia/en/e/e7/Jurassic_Park_poster.jpg",
+      "banner": "https://i.imgur.com/lPp8gUq.jpg"
+    },
+    {
+      "id": 19,
+      "moviename": "The Matrix",
+      "director": "Lana Wachowski, Lilly Wachowski",
+      "hero": "Keanu Reeves",
+      "heroine": "Carrie-Anne Moss",
+      "productionHouse": "Warner Bros.",
+      "budget": "$63 million",
+      "collection": "$463.5 million",
+      "rating": 8.7,
+      "description": "A computer hacker learns about the true nature of his reality and his role in the war against its controllers.",
+      "release_date": "1999",
+      "duration": "2h 16min",
+      "genre": [
+        "Action",
+        "Sci-Fi"
+      ],
+      "languages": [
+        "English"
+      ],
+      "trailer_link": "https://www.youtube.com/embed/vKQi3bBA1y8?si=hVqemYicKTx70g2Z",
+      "poster": "https://upload.wikimedia.org/wikipedia/en/c/c1/The_Matrix_Poster.jpg",
+      "banner": "https://i.imgur.com/GHVT5O9.jpg"
+    },
+    {
+      "id": 20,
+      "moviename": "Kannum Kannum Kollaiyadithaal",
+      "hero": "Dulquer Salmaan",
+      "heroine": "Ritu Varma",
+      "director": "Desingh Periyasamy",
+      "productionHouse": "Anto Joseph Film Company",
+      "budget": "12 crore INR",
+      "collection": "72 crore INR",
+      "rating": 8.2,
+      "description": "Romantic thriller about a tech-savvy group of friends and a cybercrime adventure.",
+      "release_date": "2020",
+      "duration": "2h 40min",
+      "genre": [
+        "Romance",
+        "Thriller"
+      ],
+      "languages": [
+        "Tamil",
+        "Telugu",
+        "Malayalam"
+      ],
+      "trailer_link": "https://www.youtube.com/embed/i0nLy3N2BNc?si=z06CX1EC9vcL8Kce",
+      "poster": "https://i.pinimg.com/originals/f8/d6/1b/f8d61ba753dd0d762cf2a4e9a25364d4.jpg",
+      "banner": "https://rb.gy/pmhqfw"
+    },
+    {
+      "id": 21,
+      "moviename": "Badhaai Ho",
+      "hero": "Ayushmann Khurrana",
+      "heroine": "Sanya Malhotra",
+      "director": "Amit Ravindernath Sharma",
+      "productionHouse": "Junglee Pictures",
+      "budget": "29 crore INR",
+      "collection": "221 crore INR",
+      "rating": 8.5,
+      "description": "Comedy-drama film about a middle-aged couple dealing with an unexpected pregnancy.",
+      "release_date": "2018",
+      "duration": "2h 4min",
+      "genre": [
+        "Comedy",
+        "Drama"
+      ],
+      "languages": [
+        "Hindi",
+        "Telugu",
+        "Tamil",
+        "Kannada",
+        "Malayalam"
+      ],
+      "trailer_link": "https://www.youtube.com/embed/unAljCZMQYw?si=BhSMoqEXOQ-6xUJg",
+      "poster": "https://e1.pxfuel.com/desktop-wallpaper/157/411/desktop-wallpaper-badhaai-ho-poster-9-full-size-poster-badhai-ho.jpg",
+      "banner":"https://wd-image.webdunia.com/image-conversion/process-aws.php?url=https://nonprod-media.webdunia.com/public_html/_media/en/img/article/2018-11/04/full/1541333049-4792.jpg&w=&h=&outtype=webp"
+    },
+    {
+      "id": 22,
+      "moviename": "Jersey",
+      "hero": "Nani",
+      "heroine": "Shraddha Srinath",
+      "director": "Gowtam Tinnanuri",
+      "productionHouse": "Sithara Entertainments",
+      "budget": "30 crore INR",
+      "collection": "75 crore INR",
+      "rating": 8.6,
+      "description": "Sports drama film about a cricketer who decides to make a comeback for his son.",
+      "release_date": "2019",
+      "duration": "2h 36min",
+      "genre": [
+        "Drama",
+        "Sport"
+      ],
+      "languages": [
+        "Telugu",
+        "Tamil",
+        "Hindi",
+        "Malayalam"
+      ],
+      "trailer_link": "https://www.youtube.com/embed/BT0zd0kmTxM?si=I2JMI1955bhBdou3",
+      "poster": "https://www.filmibeat.com/ph-big/2019/02/jersey_155106266400.jpg",
+      "banner":"https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/4168/234168-h"
+    },
+    {
+      "id": 23,
+      "moviename": "Lucia",
+      "hero": "Sathish Ninasam",
+      "heroine": "Sruthi Hariharan",
+      "director": "Pawan Kumar",
+      "productionHouse": "Black Box Productions",
+      "budget": "5 crore INR",
+      "collection": "30 crore INR",
+      "rating": 7.3,
+      "description": "Psychological thriller that explores the blurred lines between dreams and reality.",
+      "release_date": "2013",
+      "duration": "2h 20min",
+      "genre": [
+        "Drama",
+        "Mystery",
+        "Thriller"
+      ],
+      "languages": [
+        "Kannada",
+        "Tamil",
+        "Telugu",
+        "Hindi",
+        "Malayalam"
+      ],
+      "trailer_link": "https://www.youtube.com/embed/pgIL2H-OdcA?si=NUhtoarqe8yXmKy1",
+      "poster": "https://timesofindia.indiatimes.com/photo/61267289.cms",
+      "banner":"https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/4168/234168-h"
+    },
+    {
+      "id": 24,
+      "moviename": "Stree",
+      "hero": "Rajkummar Rao",
+      "heroine": "Shraddha Kapoor",
+      "director": "Amar Kaushik",
+      "productionHouse": "Maddock Films",
+      "budget": "24 crore INR",
+      "collection": "180 crore INR",
+      "rating": 8.2,
+      "description": "Horror comedy film inspired by the urban legend of Nale Ba.",
+      "release_date": "2018",
+      "duration": "2h 8min",
+      "genre": [
+        "Comedy",
+        "Horror"
+      ],
+      "languages": [
+        "Hindi",
+        "Telugu",
+        "Tamil",
+        "Kannada",
+        "Malayalam"
+      ],
+      "trailer_link": "https://www.youtube.com/embed/gzeaGcLLl_A?si=0vTV467ikEVC6mpp",
+      "poster": "https://timesofindia.indiatimes.com/photo/62470299.cms",
+      "banner":"https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/4168/234168-h"
+    },
+    {
+      "id": 25,
+      "moviename": "Dangal",
+      "hero": "Aamir Khan",
+      "heroine": "Fatima Sana Shaikh",
+      "director": "Nitesh Tiwari",
+      "productionHouse": "Walt Disney Pictures, Aamir Khan Productions",
+      "budget": "150 crore INR",
+      "collection": "2000 crore INR",
+      "rating": 8.8,
+      "description": "Biographical sports drama based on the life of Mahavir Singh Phogat.",
+      "release_date": "2016",
+      "duration": "2h 41min",
+      "genre": [
+        "Biography",
+        "Drama",
+        "Sport"
+      ],
+      "languages": [
+        "Hindi",
+        "Telugu",
+        "Tamil",
+        "Malayalam"
+      ],
+      "trailer_link": "https://www.youtube.com/embed/x_7YlGv9u1g?si=HiFUbje9mVcCDeAS",
+      "poster": "https://upload.wikimedia.org/wikipedia/en/thumb/9/99/Dangal_Poster.jpg/220px-Dangal_Poster.jpg",
+      "banner":"https://wallpapercave.com/wp/wp4019453.jpg"
+    },
+    {
+      "id": 26,
+      "moviename": "Baahubali: The Beginning",
+      "hero": "Prabhas",
+      "heroine": "Anushka Shetty",
+      "director": "S. S. Rajamouli",
+      "productionHouse": "Arka Media Works",
+      "budget": "120 crore INR",
+      "collection": "800 crore INR",
+      "rating": 8.7,
+      "description": "Epic historical fiction film about the story of Shiva and his heritage.",
+      "release_date": "2015",
+      "duration": "2h 39min",
+      "genre": [
+        "Action",
+        "Drama"
+      ],
+      "languages": [
+        "Telugu",
+        "Tamil",
+        "Hindi",
+        "Malayalam"
+      ],
+      "trailer_link": "https://www.youtube.com/embed/sOEg_YZQsTI?si=rIeEjPDY13X6clHD",
+      "poster": "https://m.media-amazon.com/images/M/MV5BZTQ3MjU2Y2UtZjI1My00NDc5LWE1OTgtYWZkMmMyMmUxNjkyXkEyXkFqcGdeQXVyODIwMDI1NjM@._V1_.jpg",
+      "banner":"https://wallpapercave.com/wp/wp4019453.jpg"
+    },
+    {
+      "id": 27,
+      "moviename": "KGF: Chapter 1",
+      "hero": "Yash",
+      "heroine": "Srinidhi Shetty",
+      "director": "Prashanth Neel",
+      "productionHouse": "Hombale Films",
+      "budget": "80 crore INR",
+      "collection": "250 crore INR",
+      "rating": 8.3,
+      "description": "Action-packed drama set against the Kolar Gold Fields backdrop.",
+      "release_date": "2018",
+      "duration": "2h 36min",
+      "genre": [
+        "Action",
+        "Drama"
+      ],
+      "languages": [
+        "Kannada",
+        "Telugu",
+        "Tamil",
+        "Hindi",
+        "Malayalam"
+      ],
+      "trailer_link": "https://www.youtube.com/embed/qXgF-iJ_ezE?si=61jqlGVDNhrOWhFJ",
+      "poster": "https://2.bp.blogspot.com/-XYs5p70uQI0/XF_ZgCnbqRI/AAAAAAAAAJg/AOYR_retSNU3eKa9G9wLdFN2xKQT70HHACLcBGAs/s1600/KGF%2Bpos.jpg",
+      "banner":"https://wallpapercave.com/wp/wp4019453.jpg"
+    },
+    {
+      "id": 28,
+      "moviename": "Queen",
+      "hero": "Kangana Ranaut",
+      "heroine": "Rajkummar Rao",
+      "director": "Vikas Bahl",
+      "productionHouse": "Phantom Films",
+      "budget": "12 crore INR",
+      "collection": "108 crore INR",
+      "rating": 7.3,
+      "description": "Comedy-drama film about a young woman who embarks on her honeymoon alone.",
+      "release_date": "2014",
+      "duration": "2h 26min",
+      "genre": [
+        "Adventure",
+        "Comedy",
+        "Drama"
+      ],
+      "languages": [
+        "Hindi"
+      ],
+      "trailer_link": "https://www.youtube.com/embed/KGC6vl3lzf0?si=M0Ou8AuC-2nMQJHU",
+      "poster": "https://timesofindia.indiatimes.com/photo/61241499.cms",
+      "banner":"https://upload.wikimedia.org/wikipedia/en/1/1c/Jigarthanda_2014_poster.jpg"
+    },
+    {
+      "id": 29,
+      "moviename": "Jigarthanda",
+      "hero": "Siddharth",
+      "heroine": "Lakshmi Menon",
+      "director": "Karthik Subbaraj",
+      "productionHouse": "Five Star Films",
+      "budget": "15 crore INR",
+      "collection": "70 crore INR",
+      "rating": 7.4,
+      "description": "Crime thriller about a filmmaker and a ruthless gangster.",
+      "release_date": "2014",
+      "duration": "2h 50min",
+      "genre": [
+        "Action",
+        "Crime",
+        "Drama"
+      ],
+      "languages": [
+        "Tamil",
+        "Telugu",
+        "Hindi",
+        "Malayalam"
+      ],
+      "trailer_link": "https://www.youtube.com/embed/_T8n-EHr4ZE?si=r8ACq6F3d9rsaPU4",
+      "poster": "https://i.pinimg.com/736x/d2/5f/55/d25f55843679e88f3a957205fef23ccf.jpg",
+      "banner":"https://upload.wikimedia.org/wikipedia/en/1/1c/Jigarthanda_2014_poster.jpg"
+    },
+    {
+      "id": 30,
+      "moviename": "Gully Boy",
+      "hero": "Ranveer Singh",
+      "heroine": "Alia Bhatt",
+      "director": "Zoya Akhtar",
+      "productionHouse": "Excel Entertainment",
+      "budget": "40 crore INR",
+      "collection": "238 crore INR",
+      "rating": 7.3,
+      "description": "Musical drama film about a young street rapper from Mumbai.",
+      "release_date": "2019",
+      "duration": "2h 33min",
+      "genre": [
+        "Drama",
+        "Music"
+      ],
+      "languages": [
+        "Hindi"
+      ],
+      "trailer_link": "https://www.youtube.com/embed/JfbxcD6biOk?si=pR5p1FhJmjh2ZSYk",
+      "poster": "https://upload.wikimedia.org/wikipedia/en/0/07/Gully_Boy_poster.jpg",
+      "banner": "https://www.thestatesman.com/wp-content/uploads/2019/01/Gully-Boy-2.jpg"
+    },
+    {
+      "id": 31,
+      "moviename": "Nayagan",
+      "hero": "Kamal Haasan",
+      "heroine": "Saranya Ponvannan",
+      "director": "Mani Ratnam",
+      "productionHouse": "Madras Talkies",
+      "budget": "4 crore INR",
+      "collection": "15 crore INR",
+      "rating": 7.6,
+      "description": "Crime drama film inspired by the life of Mumbai underworld don Varadarajan Mudaliar.",
+      "release_date": "1987",
+      "duration": "2h 36min",
+      "genre": [
+        "Crime",
+        "Drama"
+      ],
+      "languages": [
+        "Tamil",
+        "Telugu",
+        "Hindi",
+        "Malayalam"
+      ],
+      "trailer_link": "https://www.youtube.com/embed/1S6YkmYvgi8?si=FUekglnVnARalYJq",
+      "poster": "https://i.pinimg.com/736x/4e/0f/76/4e0f76d1fb689360a1e37b6903ffff8c.jpg",
+      "banner":"https://cdn.dribbble.com/users/2866003/screenshots/11278017/media/4976bf45597ee10ab83bfb8cad0e7573.jpg?resize=400x0"
+    },
+    {
+      "id": 32,
+      "moviename": "Premam",
+      "hero": "Nivin Pauly",
+      "heroine": "Sai Pallavi",
+      "director": "Alphonse Puthren",
+      "productionHouse": "Anwar Rasheed Entertainment",
+      "budget": "4 crore INR",
+      "collection": "60 crore INR",
+      "rating": 8.3,
+      "description": "Coming-of-age romantic drama that follows the life of a young man through three stages.",
+      "release_date": "2015",
+      "duration": "2h 36min",
+      "genre": [
+        "Drama",
+        "Romance"
+      ],
+      "languages": [
+        "Malayalam",
+        "Telugu",
+        "Tamil",
+        "Hindi"
+      ],
+      "trailer_link": "https://www.youtube.com/embed/pbgvTikmIMk?si=8VNr0jZZe6Fg-btL",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMzJhNjMyOGMtYjhiYy00ZTAwLThmZWUtZmE5NzI3OTk4Y2M4XkEyXkFqcGdeQXVyMzQ5Njc3NzU@._V1_.jpg",
+      "banner":"https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/66396629323171.55edda9490afb.jpg"
+    },
+    {
+      "id": 34,
+      "moviename": "Mahanati",
+      "hero": "Dulquer Salmaan",
+      "heroine": "Keerthy Suresh",
+      "director": "Nag Ashwin",
+      "productionHouse": "Vyjayanthi Movies",
+      "budget": "35 crore INR",
+      "collection": "150 crore INR",
+      "rating": 8.5,
+      "description": "Biographical film about the life of Indian actress Savitri.",
+      "release_date": "2018",
+      "duration": "2h 57min",
+      "genre": [
+        "Biography",
+        "Drama"
+      ],
+      "languages": [
+        "Telugu",
+        "Tamil",
+        "Hindi",
+        "Malayalam"
+      ],
+      "banner":"https://igimages.gumlet.io/telugu/gallery/movies/mahanti_17/main3.jpg?w=400&dpr=2.6",
+      "trailer_link": "https://www.youtube.com/embed/OrnYMmWBuV4?si=u9CRLd_hMyE9AeC0",
+      "poster": "https://1847884116.rsc.cdn77.org/telugu/gallery/movies/mahanti_17/poster3.jpg"
+    },
+    {
+      "moviename": "Oppenheimer",
+      "hero": "Cillian murphy",
+      "heroine": "Florence pugh",
+      "director": "Chirstopher Nolan",
+      "production_house": "Universal Pictures",
+      "budget": "100cr",
+      "collection": "1000cr",
+      "genre": [
+        "Thriller",
+        "Sci-fi"
+      ],
+      "release_date": "2023",
+      "rating": "9",
+      "description": "Oppenheimer (/ˈɒpənhaɪmər/ OP-ən-hy-mər) is a 2023 epic[5] biographical thriller film[6] written and directed by Christopher Nolan.[7] It stars Cillian Murphy as J. Robert Oppenheimer, the American theoretical physicist credited with being the \"father of the atomic bomb\" for his role in the Manhattan Project—the World War II undertaking that developed the first nuclear weapons. Based on the 2005 biography American Prometheus by Kai Bird and Martin J. Sherwin, the film chronicles the career of Oppenheimer.",
+      "duration": "3hrs 0min",
+      "languages": [
+        "English",
+        "Hindi",
+        "Kannada",
+        "Telgu"
+      ],
+      "trailer_link": "https://www.youtube.com/embed/uYPbbksJxIg?si=WNUkRCFL7OMqdBpf",
+      "banner": "https://images.hindustantimes.com/img/2022/07/22/1600x900/Oppenheimer-Movie-Poster_1658466334143_1658466388193_1658466388193.jpg",
+      "poster": "https://m.media-amazon.com/images/I/81218n6JFgL.jpg",
+      "id": 35
+    },
+    {
+      "moviename": "Shang-Chi and the Legend of the Ten Rings",
+      "hero": "Simu Liu",
+      "heroine": "Awkwafina",
+      "director": "Destin Daniel Cretton",
+      "production_house": "Marvel Studios",
+      "budget": "700cr",
+      "collection": "1000cr",
+      "genre": [
+        "Action",
+        "Adventure",
+        "Romantic"
+      ],
+      "release_date": "2021",
+      "rating": "7.4",
+      "description": "Shang-Chi and the Legend of the Ten Rings is a 2021 American superhero film based on Marvel Comics featuring the character Shang-Chi. Produced by Marvel Studios and distributed by Walt Disney Studios Motion Pictures, it is the 25th film in the Marvel Cinematic Universe (MCU). The film was directed by Destin Daniel Cretton from a screenplay he wrote with Dave Callaham and Andrew Lanham, and stars Simu Liu as Shang-Chi alongside Awkwafina, Meng'er Zhang, Fala Chen, Florian Munteanu, Benedict Wong, Yuen Wah, Michelle Yeoh, Ben Kingsley, and Tony Leung. In the film, Shang-Chi is forced to confront his past when his father Wenwu (Leung), the leader of the Ten Rings terrorist organization, draws Shang-Chi and his sister Xialing (Zhang) into a search for a mythical village.",
+      "duration": "2hrs 0min",
+      "languages": [
+        "English",
+        "Hindi",
+        "Tamil",
+        "Telgu"
+      ],
+      "trailer_link": "https://www.youtube.com/embed/giWIr7U1deA?si=0xVsT_eL0FUOpUcz",
+      "banner": "https://images3.alphacoders.com/117/1177621.jpg",
+      "poster": "https://m.media-amazon.com/images/M/MV5BNTliYjlkNDQtMjFlNS00NjgzLWFmMWEtYmM2Mzc2Zjg3ZjEyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_FMjpg_UX1000_.jpg",
+      "id": 36
+    }
+  ]
+}

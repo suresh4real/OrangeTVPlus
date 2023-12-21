@@ -1,0 +1,29 @@
+.addmovie-comp{
+    background-color: orange;
+
+}
+.addmovie-comp h1{
+    text-align: center;
+    color: #000;
+
+}
+form{
+    background-color: rgb(44, 43, 43);
+    width: 800px;
+    height: auto;
+    padding: 20px;
+    margin:5px auto;
+}
+input[type="text"],input[type="submit"],input[type="url"],input[type="number"],textarea,fieldset   
+{
+    margin-bottom: 5px;
+    display: block;
+}
+
+.release-year{
+    display: block;
+    margin-bottom: 10px;
+}
+legend,fieldset{
+    color: #ff9900;
+  }
