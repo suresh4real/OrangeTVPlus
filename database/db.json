@@ -1,7 +1,7 @@
 {
   "movies": [
     {
-      "id": 1,
+      "id": "1",
       "moviename": "Avatar",
       "director": "James Cameron",
       "hero": "Sam Worthington",
@@ -26,7 +26,7 @@
       "banner": "https://c4.wallpaperflare.com/wallpaper/810/33/235/movies-avatar-1680x1050-entertainment-movies-hd-art-wallpaper-preview.jpg"
     },
     {
-      "id": 2,
+      "id": "2",
       "moviename": "Baahubali: The Conclusion",
       "hero": "Prabhas",
       "heroine": "Anushka Shetty",
@@ -53,7 +53,7 @@
       "banner": "https://www.bollywoodhungama.com/wp-content/uploads/2016/03/Bahubali-2-The-Conclusion-4.jpg"
     },
     {
-      "id": 3,
+      "id": "3",
       "moviename": "KGF: Chapter 2",
       "hero": "Yash",
       "heroine": "Srinidhi Shetty",
@@ -81,7 +81,7 @@
       "banner": "https://e1.pxfuel.com/desktop-wallpaper/436/844/desktop-wallpaper-kgf-chapter-2-kgf-2.jpg "
     },
     {
-      "id": 4,
+      "id": "4",
       "moviename": "The Dark Knight",
       "director": "Christopher Nolan",
       "hero": "Christian Bale",
@@ -106,7 +106,7 @@
       "banner": "https://wildsoundwritingfestivalreview.files.wordpress.com/2016/01/the_dark_knight_banner.jpg?w=600"
     },
     {
-      "id": 5,
+      "id": "5",
       "moviename": "Inception",
       "director": "Christopher Nolan",
       "hero": "Leonardo DiCaprio",
@@ -131,7 +131,7 @@
       "banner": "https://www.joblo.com/wp-content/uploads/2010/05/inception-poster-quad-1.jpg"
     },
     {
-      "id": 7,
+      "id": "7",
       "moviename": "Andhadhun",
       "hero": "Ayushmann Khurrana",
       "heroine": "Tabu",
@@ -158,7 +158,7 @@
       "banner": "https://www.adgully.com/img/800/201904/andhadhun-poster.jpg"
     },
     {
-      "id": 8,
+      "id": "8",
       "moviename": "Rangasthalam",
       "hero": "Ram Charan",
       "heroine": "Samantha Akkineni",
@@ -185,7 +185,7 @@
       "banner": "https://e1.pxfuel.com/desktop-wallpaper/42/64/desktop-wallpaper-ram-charan-rangasthalam-1985-movie-first-look-ultra-posters-rangasthalam-1985-thumbnail.jpg"
     },
     {
-      "id": 9,
+      "id": "9",
       "moviename": "The Godfather",
       "director": "Francis Ford Coppola",
       "hero": "Marlon Brando",
@@ -209,7 +209,7 @@
       "banner": "https://i.imgur.com/jWd7XaO.jpg"
     },
     {
-      "id": 10,
+      "id": "10",
       "moviename": "Pulp Fiction",
       "director": "Quentin Tarantino",
       "hero": "John Travolta",
@@ -233,7 +233,7 @@
       "banner": "https://i.pinimg.com/736x/56/2f/a6/562fa64ec1edb0c578587e461e0442e6.jpg"
     },
     {
-      "id": 11,
+      "id": "11",
       "moviename": "Kabali",
       "hero": "Rajinikanth",
       "heroine": "Radhika Apte",
@@ -261,7 +261,7 @@
       "banner": "https://mir-s3-cdn-cf.behance.net/project_modules/max_3840/ec5f8432821431.578f5690bf4cc.jpg"
     },
     {
-      "id": 12,
+      "id": "12",
       "moviename": "Vikram Vedha",
       "hero": "R. Madhavan",
       "heroine": "Shraddha Srinath",
@@ -288,7 +288,7 @@
       "banner": "https://igimages.gumlet.io/tamil/gallery/movies/vikramveda/main2.jpg?w=400&dpr=2.6"
     },
     {
-      "id": 13,
+      "id": "13",
       "moviename": "Forrest Gump",
       "director": "Robert Zemeckis",
       "hero": "Tom Hanks",
@@ -312,7 +312,7 @@
       "banner": "https://i.imgur.com/8ulvVP0.jpg"
     },
     {
-      "id": 14,
+      "id": "14",
       "moviename": "Titanic",
       "director": "James Cameron",
       "hero": "Leonardo DiCaprio",
@@ -336,7 +336,7 @@
       "banner": "https://c8.alamy.com/comp/B3N6B7/titanic-poster-for-1997-tcflightstorm-film-with-kate-winslet-and-leonardo-B3N6B7.jpg"
     },
     {
-      "id": 16,
+      "id": "16",
       "moviename": "Jurassic Park",
       "director": "Steven Spielberg",
       "hero": "Sam Neill",
@@ -361,7 +361,7 @@
       "banner": "https://i.imgur.com/lPp8gUq.jpg"
     },
     {
-      "id": 19,
+      "id": "19",
       "moviename": "The Matrix",
       "director": "Lana Wachowski, Lilly Wachowski",
       "hero": "Keanu Reeves",
@@ -385,7 +385,7 @@
       "banner": "https://i.imgur.com/GHVT5O9.jpg"
     },
     {
-      "id": 20,
+      "id": "20",
       "moviename": "Kannum Kannum Kollaiyadithaal",
       "hero": "Dulquer Salmaan",
       "heroine": "Ritu Varma",
@@ -411,7 +411,7 @@
       "banner": "https://rb.gy/pmhqfw"
     },
     {
-      "id": 21,
+      "id": "21",
       "moviename": "Badhaai Ho",
       "hero": "Ayushmann Khurrana",
       "heroine": "Sanya Malhotra",
@@ -436,10 +436,10 @@
       ],
       "trailer_link": "https://www.youtube.com/embed/unAljCZMQYw?si=BhSMoqEXOQ-6xUJg",
       "poster": "https://e1.pxfuel.com/desktop-wallpaper/157/411/desktop-wallpaper-badhaai-ho-poster-9-full-size-poster-badhai-ho.jpg",
-      "banner":"https://wd-image.webdunia.com/image-conversion/process-aws.php?url=https://nonprod-media.webdunia.com/public_html/_media/en/img/article/2018-11/04/full/1541333049-4792.jpg&w=&h=&outtype=webp"
+      "banner": "https://wd-image.webdunia.com/image-conversion/process-aws.php?url=https://nonprod-media.webdunia.com/public_html/_media/en/img/article/2018-11/04/full/1541333049-4792.jpg&w=&h=&outtype=webp"
     },
     {
-      "id": 22,
+      "id": "22",
       "moviename": "Jersey",
       "hero": "Nani",
       "heroine": "Shraddha Srinath",
@@ -463,10 +463,10 @@
       ],
       "trailer_link": "https://www.youtube.com/embed/BT0zd0kmTxM?si=I2JMI1955bhBdou3",
       "poster": "https://www.filmibeat.com/ph-big/2019/02/jersey_155106266400.jpg",
-      "banner":"https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/4168/234168-h"
+      "banner": "https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/4168/234168-h"
     },
     {
-      "id": 23,
+      "id": "23",
       "moviename": "Lucia",
       "hero": "Sathish Ninasam",
       "heroine": "Sruthi Hariharan",
@@ -492,10 +492,10 @@
       ],
       "trailer_link": "https://www.youtube.com/embed/pgIL2H-OdcA?si=NUhtoarqe8yXmKy1",
       "poster": "https://timesofindia.indiatimes.com/photo/61267289.cms",
-      "banner":"https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/4168/234168-h"
+      "banner": "https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/4168/234168-h"
     },
     {
-      "id": 24,
+      "id": "24",
       "moviename": "Stree",
       "hero": "Rajkummar Rao",
       "heroine": "Shraddha Kapoor",
@@ -520,10 +520,10 @@
       ],
       "trailer_link": "https://www.youtube.com/embed/gzeaGcLLl_A?si=0vTV467ikEVC6mpp",
       "poster": "https://timesofindia.indiatimes.com/photo/62470299.cms",
-      "banner":"https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/4168/234168-h"
+      "banner": "https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/4168/234168-h"
     },
     {
-      "id": 25,
+      "id": "25",
       "moviename": "Dangal",
       "hero": "Aamir Khan",
       "heroine": "Fatima Sana Shaikh",
@@ -548,10 +548,10 @@
       ],
       "trailer_link": "https://www.youtube.com/embed/x_7YlGv9u1g?si=HiFUbje9mVcCDeAS",
       "poster": "https://upload.wikimedia.org/wikipedia/en/thumb/9/99/Dangal_Poster.jpg/220px-Dangal_Poster.jpg",
-      "banner":"https://wallpapercave.com/wp/wp4019453.jpg"
+      "banner": "https://wallpapercave.com/wp/wp4019453.jpg"
     },
     {
-      "id": 26,
+      "id": "26",
       "moviename": "Baahubali: The Beginning",
       "hero": "Prabhas",
       "heroine": "Anushka Shetty",
@@ -575,10 +575,10 @@
       ],
       "trailer_link": "https://www.youtube.com/embed/sOEg_YZQsTI?si=rIeEjPDY13X6clHD",
       "poster": "https://m.media-amazon.com/images/M/MV5BZTQ3MjU2Y2UtZjI1My00NDc5LWE1OTgtYWZkMmMyMmUxNjkyXkEyXkFqcGdeQXVyODIwMDI1NjM@._V1_.jpg",
-      "banner":"https://wallpapercave.com/wp/wp4019453.jpg"
+      "banner": "https://wallpapercave.com/wp/wp4019453.jpg"
     },
     {
-      "id": 27,
+      "id": "27",
       "moviename": "KGF: Chapter 1",
       "hero": "Yash",
       "heroine": "Srinidhi Shetty",
@@ -603,10 +603,10 @@
       ],
       "trailer_link": "https://www.youtube.com/embed/qXgF-iJ_ezE?si=61jqlGVDNhrOWhFJ",
       "poster": "https://2.bp.blogspot.com/-XYs5p70uQI0/XF_ZgCnbqRI/AAAAAAAAAJg/AOYR_retSNU3eKa9G9wLdFN2xKQT70HHACLcBGAs/s1600/KGF%2Bpos.jpg",
-      "banner":"https://wallpapercave.com/wp/wp4019453.jpg"
+      "banner": "https://wallpapercave.com/wp/wp4019453.jpg"
     },
     {
-      "id": 28,
+      "id": "28",
       "moviename": "Queen",
       "hero": "Kangana Ranaut",
       "heroine": "Rajkummar Rao",
@@ -628,10 +628,10 @@
       ],
       "trailer_link": "https://www.youtube.com/embed/KGC6vl3lzf0?si=M0Ou8AuC-2nMQJHU",
       "poster": "https://timesofindia.indiatimes.com/photo/61241499.cms",
-      "banner":"https://upload.wikimedia.org/wikipedia/en/1/1c/Jigarthanda_2014_poster.jpg"
+      "banner": "https://upload.wikimedia.org/wikipedia/en/1/1c/Jigarthanda_2014_poster.jpg"
     },
     {
-      "id": 29,
+      "id": "29",
       "moviename": "Jigarthanda",
       "hero": "Siddharth",
       "heroine": "Lakshmi Menon",
@@ -656,10 +656,10 @@
       ],
       "trailer_link": "https://www.youtube.com/embed/_T8n-EHr4ZE?si=r8ACq6F3d9rsaPU4",
       "poster": "https://i.pinimg.com/736x/d2/5f/55/d25f55843679e88f3a957205fef23ccf.jpg",
-      "banner":"https://upload.wikimedia.org/wikipedia/en/1/1c/Jigarthanda_2014_poster.jpg"
+      "banner": "https://upload.wikimedia.org/wikipedia/en/1/1c/Jigarthanda_2014_poster.jpg"
     },
     {
-      "id": 30,
+      "id": "30",
       "moviename": "Gully Boy",
       "hero": "Ranveer Singh",
       "heroine": "Alia Bhatt",
@@ -683,34 +683,7 @@
       "banner": "https://www.thestatesman.com/wp-content/uploads/2019/01/Gully-Boy-2.jpg"
     },
     {
-      "id": 31,
-      "moviename": "Nayagan",
-      "hero": "Kamal Haasan",
-      "heroine": "Saranya Ponvannan",
-      "director": "Mani Ratnam",
-      "productionHouse": "Madras Talkies",
-      "budget": "4 crore INR",
-      "collection": "15 crore INR",
-      "rating": 7.6,
-      "description": "Crime drama film inspired by the life of Mumbai underworld don Varadarajan Mudaliar.",
-      "release_date": "1987",
-      "duration": "2h 36min",
-      "genre": [
-        "Crime",
-        "Drama"
-      ],
-      "languages": [
-        "Tamil",
-        "Telugu",
-        "Hindi",
-        "Malayalam"
-      ],
-      "trailer_link": "https://www.youtube.com/embed/1S6YkmYvgi8?si=FUekglnVnARalYJq",
-      "poster": "https://i.pinimg.com/736x/4e/0f/76/4e0f76d1fb689360a1e37b6903ffff8c.jpg",
-      "banner":"https://cdn.dribbble.com/users/2866003/screenshots/11278017/media/4976bf45597ee10ab83bfb8cad0e7573.jpg?resize=400x0"
-    },
-    {
-      "id": 32,
+      "id": "32",
       "moviename": "Premam",
       "hero": "Nivin Pauly",
       "heroine": "Sai Pallavi",
@@ -734,10 +707,10 @@
       ],
       "trailer_link": "https://www.youtube.com/embed/pbgvTikmIMk?si=8VNr0jZZe6Fg-btL",
       "poster": "https://m.media-amazon.com/images/M/MV5BMzJhNjMyOGMtYjhiYy00ZTAwLThmZWUtZmE5NzI3OTk4Y2M4XkEyXkFqcGdeQXVyMzQ5Njc3NzU@._V1_.jpg",
-      "banner":"https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/66396629323171.55edda9490afb.jpg"
+      "banner": "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/66396629323171.55edda9490afb.jpg"
     },
     {
-      "id": 34,
+      "id": "34",
       "moviename": "Mahanati",
       "hero": "Dulquer Salmaan",
       "heroine": "Keerthy Suresh",
@@ -759,7 +732,7 @@
         "Hindi",
         "Malayalam"
       ],
-      "banner":"https://igimages.gumlet.io/telugu/gallery/movies/mahanti_17/main3.jpg?w=400&dpr=2.6",
+      "banner": "https://igimages.gumlet.io/telugu/gallery/movies/mahanti_17/main3.jpg?w=400&dpr=2.6",
       "trailer_link": "https://www.youtube.com/embed/OrnYMmWBuV4?si=u9CRLd_hMyE9AeC0",
       "poster": "https://1847884116.rsc.cdn77.org/telugu/gallery/movies/mahanti_17/poster3.jpg"
     },
@@ -788,7 +761,7 @@
       "trailer_link": "https://www.youtube.com/embed/uYPbbksJxIg?si=WNUkRCFL7OMqdBpf",
       "banner": "https://images.hindustantimes.com/img/2022/07/22/1600x900/Oppenheimer-Movie-Poster_1658466334143_1658466388193_1658466388193.jpg",
       "poster": "https://m.media-amazon.com/images/I/81218n6JFgL.jpg",
-      "id": 35
+      "id": "35"
     },
     {
       "moviename": "Shang-Chi and the Legend of the Ten Rings",
@@ -816,7 +789,7 @@
       "trailer_link": "https://www.youtube.com/embed/giWIr7U1deA?si=0xVsT_eL0FUOpUcz",
       "banner": "https://images3.alphacoders.com/117/1177621.jpg",
       "poster": "https://m.media-amazon.com/images/M/MV5BNTliYjlkNDQtMjFlNS00NjgzLWFmMWEtYmM2Mzc2Zjg3ZjEyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_FMjpg_UX1000_.jpg",
-      "id": 36
+      "id": "36"
     }
   ]
 }
